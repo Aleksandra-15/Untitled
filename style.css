@@ -1,0 +1,166 @@
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+h1 {
+  color: #3e3e3e;
+  font-family: Apercu Arabic Pro;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%; /* 52px */
+}
+.form-btn {
+  width: 218px;
+  height: 73px;
+  border-radius: 500px;
+  background: #fad34f;
+  border: 0;
+  color: #fff;
+  font-family: Apercu Arabic Pro;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  cursor: pointer;
+  z-index: 2;
+  margin-top: 15px;
+}
+.form_join input {
+  color: #2d2d2d;
+  font-family: Apercu Arabic Pro;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 32.4px */
+  border-radius: 10px;
+  border: 1px solid #dcdcdc;
+  background: #fff;
+  width: 100%;
+  height: 93px;
+  padding: 0 31px 0 46px;
+  margin-top: 8px;
+  outline: none;
+}
+.form_join textarea {
+  color: #2d2d2d;
+  font-family: Apercu Arabic Pro;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 180%; /* 32.4px */
+  border-radius: 10px;
+  border: 1px solid #dcdcdc;
+  background: #fff;
+  width: 100%;
+  height: 189px;
+  padding: 31px 0 0 46px;
+  resize: none;
+  outline: none;
+  margin-top: 8px;
+}
+.form_join {
+  width: 557px;
+}
+.forming {
+  position: relative;
+  background: url(./img/map.png) right top/contain no-repeat;
+  padding: 179px 0 174px 0;
+}
+.yellov-smile-up {
+  position: absolute;
+  top: 23px;
+  left: 29px;
+}
+.pinc-smail {
+  position: absolute;
+  bottom: 80px;
+  left: 55%;
+}
+.good {
+  position: absolute;
+  left: 55%;
+  bottom: 290px;
+}
+.red_cartoon-footer {
+  position: absolute;
+  left: 15px;
+}
+.group {
+  position: absolute;
+  right: 127px;
+}
+.footer {
+  position: relative;
+  width: 100%;
+  border: 1px solid #d8d8d8;
+  background: #fafafa;
+}
+.yellow_cartoon_footer {
+  position: absolute;
+  right: 0;
+  top: 51px;
+}
+.footer-lists {
+  list-style: none;
+  text-decoration: none;
+}
+.footer-lists {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  position: absolute;
+  bottom: 104px;
+  top: 105px;
+}
+.Ellipse-top {
+  position: relative;
+  top: -240px;
+  left: 50%;
+}
+.elips-center {
+  position: relative;
+  top: 124px;
+  left: 35%;
+}
+.cloud-right {
+  position: relative;
+  top: 120px;
+  left: 395px;
+}
+.elips-center-back {
+  position: relative;
+  top: 241px;
+  left: 9%;
+}
+.cloud-left {
+  position: absolute;
+  top: 400px;
+
+  left: 0;
+}
+.cloud-bottom-right {
+  position: relative;
+  bottom: 124px;
+  left: 190px;
+  z-index: 1;
+}
+.cloud-left-bottom {
+  position: absolute;
+  left: 0;
+  bottom: 480px;
+}
+.cloud-bottom {
+  position: absolute;
+  left: 372px;
+  top: 964px;
+}
+.cloud-in-btn {
+  position: absolute;
+  bottom: 320px;
+  left: 335px;
+}
+.cloud-bottom-card{
+  position: absolute;
+  bottom: 80px;
+}
