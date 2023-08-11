@@ -65,7 +65,6 @@ h1 {
 .forming {
   position: relative;
   background: url(./img/map.png) right top/contain no-repeat;
-  padding: 179px 0 174px 0;
 }
 .yellov-smile-up {
   position: absolute;
@@ -112,6 +111,7 @@ h1 {
   position: absolute;
   bottom: 104px;
   top: 105px;
+  left: 20%;
 }
 .Ellipse-top {
   position: relative;
@@ -160,7 +160,7 @@ h1 {
   bottom: 320px;
   left: 335px;
 }
-.cloud-bottom-card{
+.cloud-bottom-card {
   position: absolute;
   bottom: 80px;
 }
